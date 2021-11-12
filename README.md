@@ -113,7 +113,7 @@ Always ensure that your work functions correctly in Chrome, FireFox, Safari, IE9
 #### IE Setup
 
 1. Install [VirtualBox](https://www.virtualbox.org/)
-2. [Download virtual machine](https://dev.windows.com/en-us/microsoft-edge/tools/vms/mac/)
+2. [Download virtual machine](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 3. Launch Virtual Box.
 4. Choose ievms image from Virtual Box.
 5. Open Internet Explorer.
